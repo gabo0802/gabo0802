@@ -64,7 +64,7 @@ TODO: Description :)
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,clion,idea,replit,visualstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,phpstorm,eclipse,visualstudio,clion,idea,replit"/></td>
     </tr>
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Project Management:</td>
