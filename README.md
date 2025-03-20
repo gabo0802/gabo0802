@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Gabriel Castejon
+# Hello 🌎, I'm Gabriel Castejon
 
 TODO: Description :)
 
