@@ -2,7 +2,10 @@
 
 # Hello 🌎
 
-TODO: Description :)
+- Compuer Science Major and Business Administration and Economics Minor at the **University of Florida** 🐊
+- Prev SWE Intern @ **Google** and **Electronic Arts**
+- **ColorStack** and **SHPE** Member, **HSF** Scholar
+- Mostly a front-end developer, but with experience in tons of other tools, see some of what I've worked with below ~
 
 <h3 align="left">Connect with me:</h3>
 
@@ -95,7 +98,7 @@ TODO: Description :)
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Google Tasks](https://img.shields.io/badge/Google_Tasks-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Tasks](https://img.shields.io/badge/Google_Tasks-4285F4?style=for-the-badge&logo=googletasks&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 <h4 align=left">Other Tools:</h4>
